@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BlogReader</string>
+    <string name="title_blogpost_detail">BlogPost Detail</string>
+</resources>
